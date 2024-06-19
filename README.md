@@ -37,3 +37,5 @@ This Tuition/Coaching Management System is designed to streamline and optimize t
    - Run the application by double-clicking the shortcut.
 
 By following these steps, you can set up and run the Tuition/Coaching Management System, leveraging its features to enhance the efficiency and user experience of managing tuition and coaching operations.
+
+Source Code is in folder: D:\ICI\ICI sources\Files\Files\Files\Source Code\
